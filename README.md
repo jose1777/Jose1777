@@ -8,25 +8,26 @@
 
 <br/><br/>
 
-### 🛠️ Stack
+### Stack
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,docker,linux,postgres,git,arduino,raspberrypi,cloudflare&perline=6" />
 
 <br/><br/>
 
-### 🚀 No que estou trabalhando
+### No que estou trabalhando
 
-| | Projeto | O que faz |
-|:-:|---|---|
-| 🏭 | **Planejamento de produção** | Sistema para uma indústria, integrado ao ERP Protheus, que prevê a demanda, prioriza o que produzir e acompanha as ordens de produção, com consulta por IA via MCP |
-| 💼 | **CRM B2B** | Plataforma de força de vendas |
-| 🚚 | **Roteirizador logístico** | Planeja rotas e cargas de entrega |
-| 🤖 | **Luna** | Ecossistema de bots |
-| 🔐 | **Cofre eletrônico** | Projeto com Arduino e Raspberry Pi |
+| Projeto | O que faz |
+|---|---|
+| **Planejamento de produção** | Sistema para uma indústria, integrado ao ERP Protheus, que prevê a demanda, prioriza o que produzir e acompanha as ordens de produção, com consulta por IA via MCP |
+| **CRM B2B** | Plataforma de força de vendas para indústria, com perfis de representante, gerente e administrador. Gestão de carteira, orçamentos e pedidos, catálogo e fila de pedidos integrados ao ERP, metas, fluxo de aprovações, analytics comercial e consulta por IA via MCP |
+| **Controle de inventário** | Endereçamento de pallets no armazém, registrando o que está em cada posição e mostrando um mapa de ocupação em tempo real |
+| **Roteirizador logístico** | Planeja rotas e cargas de entrega |
+| **Luna** | Ecossistema de bots |
+| **Cofre eletrônico** | Projeto com Arduino e Raspberry Pi |
 
 <br/>
 
-### 📊 Contribuições
+### Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jose1777/Jose1777/output/github-snake-dark.svg" />
