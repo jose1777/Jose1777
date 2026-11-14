@@ -19,7 +19,7 @@
 | Projeto | O que faz |
 |---|---|
 | **Planejamento de produção** | Sistema para uma indústria, integrado ao ERP Protheus, que prevê a demanda, prioriza o que produzir e acompanha as ordens de produção, com consulta por IA via MCP |
-| **CRM B2B** | Plataforma de força de vendas para indústria, com perfis de representante, gerente e administrador. Gestão de carteira, orçamentos e pedidos, catálogo e fila de pedidos integrados ao ERP, metas, fluxo de aprovações, analytics comercial e consulta por IA via MCP |
+| **Plataforma de vendas e inteligência comercial** | Plataforma de força de vendas (SFA) para indústria, com perfis de representante, gerente e administrador. Gestão de carteira, orçamentos e pedidos, catálogo e fila de pedidos integrados ao ERP, metas, fluxo de aprovações, analytics comercial e consulta por IA via MCP |
 | **Controle de inventário** | Endereçamento de pallets no armazém, registrando o que está em cada posição e mostrando um mapa de ocupação em tempo real |
 | **Roteirizador logístico** | Planeja rotas e cargas de entrega |
 | **Luna** | Ecossistema de bots |
