@@ -16,8 +16,13 @@
 
 ### 🚀 No que estou trabalhando
 
-**CRM B2B** para força de vendas · **Roteirizador logístico** para planejar entregas<br/>
-**Luna**, ecossistema de bots · **Cofre eletrônico** com Arduino e Raspberry Pi
+| | Projeto | O que faz |
+|:-:|---|---|
+| 🏭 | **Planejamento de produção** | Sistema para uma indústria, integrado ao ERP Protheus, que prevê a demanda, prioriza o que produzir e acompanha as ordens de produção, com consulta por IA via MCP |
+| 💼 | **CRM B2B** | Plataforma de força de vendas |
+| 🚚 | **Roteirizador logístico** | Planeja rotas e cargas de entrega |
+| 🤖 | **Luna** | Ecossistema de bots |
+| 🔐 | **Cofre eletrônico** | Projeto com Arduino e Raspberry Pi |
 
 <br/>
 
